@@ -12,7 +12,7 @@ public class Human implements Competitor {
 
     public Human(String name) {
         this.name = name;
-        this.maxRunDistance = 5000;
+        this.maxRunDistance = 5500;
         this.maxJumpHeight = 30;
         this.maxSwimDistance = 200;
         this.active = true;
